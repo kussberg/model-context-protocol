@@ -1,6 +1,6 @@
 {
     "name": "model-context-protocol",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "The one and only MCP Server for dads jokes.",
     "main": "dist/index.js",
     "scripts": {
